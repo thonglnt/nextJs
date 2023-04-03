@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Account Page should render Account Page Component 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg css-1qmdd7f-MuiContainer-root"
+  >
+    <div
+      class="MuiBox-root css-0"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 css-56movi-MuiTypography-root"
+      >
+        Account
+      </h2>
+    </div>
+    <div
+      class="MuiBox-root css-t1c47c"
+    >
+      <div
+        class="MuiBox-root css-13t3iqc"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1poohah-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1hejyx9-MuiTypography-root"
+          >
+            General
+          </p>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1poohah-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-2pgac4-MuiTypography-root"
+          >
+            Billing
+          </p>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1poohah-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-2pgac4-MuiTypography-root"
+          >
+            Security
+          </p>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-v9rab2-MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root css-h5fkc8"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-eyi1og-MuiPaper-root-MuiCard-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-nh3o6o-MuiTypography-root"
+          >
+            Basic details
+          </p>
+          <div
+            class="MuiBox-root css-1f412ck"
+          >
+            <div
+              class="MuiBox-root css-kl5uk3"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-8h65ya-MuiAvatar-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+                  data-testid="PersonIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                  />
+                </svg>
+              </div>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSuccess MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textSuccess MuiButton-sizeMedium MuiButton-textSizeMedium css-jwdgh3-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                change
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiBox-root css-k008qs"
+            >
+              <div
+                class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-xne6jv-MuiFormControl-root-MuiTextField-root"
+              >
+                <label
+                  class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+                  data-shrink="true"
+                  for="outlined-required"
+                  id="outlined-required-label"
+                >
+                  Full name
+                </label>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-fullWidth MuiInputBase-formControl css-1cswynb-MuiInputBase-root-MuiOutlinedInput-root"
+                >
+                  <input
+                    aria-invalid="false"
+                    autocomplete="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+                    id="outlined-required"
+                    name="fullName"
+                    type="text"
+                    value="Shen Zen"
+                  />
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                  >
+                    <legend
+                      class="css-14lo706"
+                    >
+                      <span>
+                        Full name
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium Mui-disabled MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1kwi5j1-MuiButtonBase-root-MuiButton-root"
+                disabled=""
+                tabindex="-1"
+                type="button"
+              >
+                Save
+              </button>
+            </div>
+            <div
+              class="MuiBox-root css-k008qs"
+            >
+              <div
+                class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-xne6jv-MuiFormControl-root-MuiTextField-root"
+              >
+                <label
+                  class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary Mui-disabled MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+                  data-shrink="true"
+                  for="outlined-required"
+                  id="outlined-required-label"
+                >
+                  Email address
+                </label>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary Mui-disabled MuiInputBase-fullWidth MuiInputBase-formControl css-1cswynb-MuiInputBase-root-MuiOutlinedInput-root"
+                >
+                  <input
+                    aria-invalid="false"
+                    autocomplete="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input Mui-disabled css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+                    disabled=""
+                    id="outlined-required"
+                    name="email"
+                    type="text"
+                    value="shen.zen@acme.com"
+                  />
+                  <fieldset
+                    aria-hidden="true"
+                    class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                  >
+                    <legend
+                      class="css-14lo706"
+                    >
+                      <span>
+                        Email address
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium css-pw23t8-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Edit
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1qwdabd-MuiPaper-root-MuiCard-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-nh3o6o-MuiTypography-root"
+          >
+            Public profile
+          </p>
+          <div
+            class="MuiBox-root css-1wa7et"
+          >
+            <div
+              class="MuiBox-root css-k008qs"
+            >
+              <div
+                class="MuiBox-root css-7pf6at"
+              >
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-1arc1mz-MuiTypography-root"
+                  >
+                    Make Contact info Public
+                  </h5>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-10ca3tv-MuiTypography-root"
+                  >
+                    Means that anyone viewing yo your profile will be able to see your contacts details
+                  </p>
+                </div>
+              </div>
+              <label
+                class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+              >
+                <span
+                  class="MuiSwitch-root MuiSwitch-sizeMedium css-julti5-MuiSwitch-root"
+                >
+                  <span
+                    class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary css-12f33q6-MuiButtonBase-root-MuiSwitch-switchBase"
+                  >
+                    <input
+                      class="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+                      type="checkbox"
+                    />
+                    <span
+                      class="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+                    />
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </span>
+                  <span
+                    class="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+                  />
+                </span>
+              </label>
+            </div>
+            <hr
+              class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+            />
+            <div
+              class="MuiBox-root css-k008qs"
+            >
+              <div
+                class="MuiBox-root css-7pf6at"
+              >
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5 css-1arc1mz-MuiTypography-root"
+                  >
+                    Available to hire
+                  </h5>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-10ca3tv-MuiTypography-root"
+                  >
+                    Toggling this will let your teammates know that you are available for acquiring new projects
+                  </p>
+                </div>
+              </div>
+              <label
+                class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+              >
+                <span
+                  class="MuiSwitch-root MuiSwitch-sizeMedium css-julti5-MuiSwitch-root"
+                >
+                  <span
+                    class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary Mui-checked css-12f33q6-MuiButtonBase-root-MuiSwitch-switchBase"
+                  >
+                    <input
+                      checked=""
+                      class="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+                      type="checkbox"
+                    />
+                    <span
+                      class="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+                    />
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </span>
+                  <span
+                    class="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+                  />
+                </span>
+              </label>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1qwdabd-MuiPaper-root-MuiCard-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-nh3o6o-MuiTypography-root"
+          >
+            Deleted account
+          </p>
+          <div
+            class="MuiBox-root css-1f412ck"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-oj13xm-MuiTypography-root"
+            >
+              Delete your account and all of your source data. This is irreversible.
+            </p>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedError MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedError MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-180lf2n-MuiButtonBase-root-MuiButton-root"
+              tabindex="0"
+              type="button"
+            >
+              Deleted account
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

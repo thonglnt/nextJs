@@ -1,0 +1,32 @@
+.sidebar {
+  width: 300px;
+  height: 100%;
+  border: 1px solid var(--paleChestnut);
+}
+
+.sidebar-header {
+  height: 50px;
+}
+
+.offcanvas-hr {
+  color: red;
+  margin: 0;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.shopping-cart {
+  border: 1px solid var(--black);
+  position: absolute;
+  bottom: 10px;
+  width: 85%;
+  padding: 10px 0;
+  background-color: var(--white);
+  font-weight: 600;
+}
+
+.shopping-cart:hover {
+  background-color: var(--white);
+  color: var(--paleChestnut);
+  border: 1px solid var(--paleChestnut);
+  transition: 0.4s;
+}

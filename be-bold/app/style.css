@@ -1,0 +1,136 @@
+.banner {
+  background-image: url("../public/images/banner.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.home-page {
+  padding: 15% 0;
+  margin-left: 10%;
+}
+
+.title-banner {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.content-banner {
+  font-size: 48px;
+}
+
+.sub-title {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.card-popular {
+  width: 18rem;
+}
+
+.price {
+  color: var(--black);
+  text-decoration: none;
+}
+
+.price:hover {
+  color: inherit;
+}
+
+.product-image {
+  position: relative;
+}
+
+.sale-badge {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  border-radius: 30px;
+  color: var(--black);
+  background-color: var(--white);
+  width: 50px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.add-to-cart {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: var(--white);
+  color: var(--black);
+  top: 20px;
+  right: 20px;
+  position: absolute;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-image:hover .add-to-cart {
+  display: flex;
+}
+
+.collection {
+  background-image: url("../public/images/banner2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.widget-wrapper hr {
+  width: 20px;
+  height: 2px;
+  color: var(--paleChestnut);
+  margin: 0 12px;
+}
+
+.new-collection1 {
+  background-image: url("../public/images/collection1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 45%;
+}
+
+.new-collection2 {
+  width: 45% !important;
+  background-image: url("../public/images/collection2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.why-choose-us {
+  width: 50px;
+  height: 2px;
+  color: var(--paleChestnut);
+}
+
+.choose-us-icon {
+  background-color: var(--paleChestnut);
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.choose-us-icon i {
+  color: var(--white);
+}
+
+.choose-us-icon:hover {
+  background-color: var(--black);
+}

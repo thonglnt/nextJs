@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Head dash board render Should Head match Snapshot 1`] = `
+<div>
+  <title>
+    Login | Material
+  </title>
+</div>
+`;

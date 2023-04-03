@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Head dash board render Should Head match Snapshot 1`] = `
+<div>
+  <title>
+    Dashboard | Material
+  </title>
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <link
+    href="/favicon.ico"
+    rel="icon"
+  />
+</div>
+`;

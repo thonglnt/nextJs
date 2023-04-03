@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Page should render Login Page 1`] = `
+<div>
+  <form
+    class="MuiBox-root css-dnnnuz"
+  >
+    <a
+      href="/"
+      style="max-width: 40px; max-height: 40px;"
+    >
+      <img
+        alt="logo"
+        data-nimg="1"
+        decoding="async"
+        height="40"
+        loading="eager"
+        src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+        srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+        style="color: transparent;"
+        width="40"
+      />
+    </a>
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-13ikgl9-MuiTypography-root"
+    >
+      Log in
+    </h5>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-bzfmi6-MuiTypography-root"
+    >
+      Sign in on the internal platform
+    </p>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-xne6jv-MuiFormControl-root-MuiTextField-root"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-qmlsft-MuiFormLabel-root-MuiInputLabel-root"
+        data-shrink="false"
+        for="outlined-required"
+        id="outlined-required-label"
+      >
+        Email Address
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-fullWidth MuiInputBase-formControl css-1cswynb-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-invalid="false"
+          autocomplete="false"
+          class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          id="outlined-required"
+          name="email"
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="css-yjsfm1"
+          >
+            <span>
+              Email Address
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-9tsqn3-MuiFormControl-root-MuiTextField-root"
+    >
+      <label
+        class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-qmlsft-MuiFormLabel-root-MuiInputLabel-root"
+        data-shrink="false"
+        for="outlined-required"
+        id="outlined-required-label"
+      >
+        Password
+      </label>
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-fullWidth MuiInputBase-formControl css-1cswynb-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-invalid="false"
+          autocomplete="false"
+          class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          id="outlined-required"
+          name="password"
+          type="password"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="css-yjsfm1"
+          >
+            <span>
+              Password
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-1marung-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="submit"
+    >
+      Log In
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-1l74i5m-MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root css-bgm2id"
+    >
+      <a
+        href="/register"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-ai1txx-MuiTypography-root"
+        >
+          Create new account
+        </p>
+      </a>
+      <a
+        href="/forgot-password"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-ai1txx-MuiTypography-root"
+        >
+          Forgot password
+        </p>
+      </a>
+    </div>
+  </form>
+</div>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Actions component should render Card Actions component 1`] = `
+<div>
+  <p
+    class="MuiTypography-root MuiTypography-body1 css-1hazt9m-MuiTypography-root"
+  >
+    <a
+      href="/learn-more"
+    >
+      Learn more
+    </a>
+  </p>
+</div>
+`;

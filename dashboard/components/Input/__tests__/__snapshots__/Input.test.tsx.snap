@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component should render Input component 1`] = `
+<div>
+  <div
+    class="MuiFormControl-root MuiTextField-root css-1tiijee-MuiFormControl-root-MuiTextField-root"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-qmlsft-MuiFormLabel-root-MuiInputLabel-root"
+      data-shrink="false"
+      for="outlined-required"
+      id="outlined-required-label"
+    >
+      Input Label
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+    >
+      <input
+        aria-invalid="false"
+        autocomplete="false"
+        class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+        id="outlined-required"
+        name="input"
+        type="text"
+        value=""
+      />
+      <fieldset
+        aria-hidden="true"
+        class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+      >
+        <legend
+          class="css-yjsfm1"
+        >
+          <span>
+            Input Label
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

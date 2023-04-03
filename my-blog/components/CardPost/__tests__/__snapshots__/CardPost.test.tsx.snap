@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo Component Should show match Logo DOM Snapshot 1`] = `
+<div>
+  <article
+    class="MuiBox-root css-zelrb1"
+  >
+    <figure
+      class="MuiBox-root css-1defjo5"
+    >
+      <img
+        alt="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+        data-nimg="1"
+        decoding="async"
+        height="500"
+        loading="eager"
+        sizes="(min-width: 600px) 90vw, 60vw"
+        src="/_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=3840&q=40"
+        srcset="/_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=384&q=40 384w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=640&q=40 640w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=750&q=40 750w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=828&q=40 828w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=1080&q=40 1080w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=1200&q=40 1200w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=1920&q=40 1920w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=2048&q=40 2048w, /_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F23%2F22%2F00%2Ftree-736885_960_720.jpg&w=3840&q=40 3840w"
+        style="color: transparent; width: 100%; height: auto;"
+        width="1200"
+      />
+      <div
+        class="MuiBox-root css-1dzd2um"
+      >
+        <h2
+          class="MuiTypography-root MuiTypography-h2 css-1euwy7o-MuiTypography-root"
+        >
+          <a
+            href="/"
+          >
+            CSS
+          </a>
+        </h2>
+        <div
+          class="MuiBox-root css-0"
+        >
+          <div
+            class="MuiBox-root css-h0kv6j"
+          >
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-1pfp39o-MuiTypography-root"
+            >
+              Chào mừng bạn đến với blog số 5 của series “Linux dành cho lập trình viên”. Trong các blog trước, mình đã đi qua các nội dung về: – “Giới thiệu về Linux” – “Làm quen câu lệnh và hệ thống tập tin…
+
+            </p>
+          </div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-18rdgku-MuiTypography-root"
+          >
+            300 views
+             
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1km2i1u-MuiTypography-root"
+          >
+            <a
+              href="/"
+            >
+              CONTINUE READING...
+            </a>
+          </p>
+        </div>
+      </div>
+    </figure>
+  </article>
+</div>
+`;

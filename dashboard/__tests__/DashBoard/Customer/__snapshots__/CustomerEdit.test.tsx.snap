@@ -1,0 +1,478 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Edit Customer Page should render Edit Customer Page 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg css-1qmdd7f-MuiContainer-root"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1poohah-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-startIcon MuiButton-iconSizeMedium css-1d6wzja-MuiButton-startIcon"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall css-ptiqhd-MuiSvgIcon-root"
+          data-testid="ArrowBackIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+          />
+        </svg>
+      </span>
+      Customers
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <div
+      class="MuiBox-root css-69i1ev"
+    >
+      <div
+        class="MuiBox-root css-10egq61"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1jket8t-MuiAvatar-root"
+        >
+          KD
+        </div>
+        <div
+          class="MuiBox-root css-j7qwjs"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-cl9w63-MuiTypography-root"
+          >
+            adam.dennisov@devias.io
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+          >
+            user_id: 
+            <div
+              class="MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorDefault MuiChip-filledDefault css-1pr1je5-MuiChip-root"
+            >
+              <span
+                class="MuiChip-label MuiChip-labelMedium css-6od3lo-MuiChip-label"
+              >
+                5e86805e2bafd54f66cc95c3
+              </span>
+            </div>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-w2s3lu-MuiPaper-root-MuiCard-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-nwmvc1-MuiTypography-root"
+      >
+        Edit Customer
+      </p>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root css-z9a9tx"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Full name*
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="Miron Vitold"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Full name*
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Email address*
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="miron.vitold@devias.io"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Email address*
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Country
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="USA"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Country
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            State/Region
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="New York"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  State/Region
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Address 1
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="Street John Wick, no. 7"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Address 1
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Address 2
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="House #25"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Address 2
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-1nqn1bq-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorSecondary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1agiy4x-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="true"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Phone number
+          </label>
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorSecondary MuiInputBase-formControl css-12z6gyx-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="false"
+              class="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              type="text"
+              value="+55 748 327 439"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-14lo706"
+              >
+                <span>
+                  Phone number
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root css-1qyocqh"
+      >
+        <div
+          class="MuiBox-root css-7pf6at"
+        >
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h5
+              class="MuiTypography-root MuiTypography-h5 css-1arc1mz-MuiTypography-root"
+            >
+              Make Contact Info Public
+            </h5>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-10ca3tv-MuiTypography-root"
+            >
+              Means that anyone viewing your profile will be able to see your contacts details
+            </p>
+          </div>
+        </div>
+        <label
+          class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+        >
+          <span
+            class="MuiSwitch-root MuiSwitch-sizeMedium css-julti5-MuiSwitch-root"
+          >
+            <span
+              class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary Mui-checked css-12f33q6-MuiButtonBase-root-MuiSwitch-switchBase"
+            >
+              <input
+                checked=""
+                class="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+                type="checkbox"
+              />
+              <span
+                class="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+              />
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </span>
+            <span
+              class="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+            />
+          </span>
+        </label>
+      </div>
+      <hr
+        class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+      />
+      <div
+        class="MuiBox-root css-1qyocqh"
+      >
+        <div
+          class="MuiBox-root css-7pf6at"
+        >
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h5
+              class="MuiTypography-root MuiTypography-h5 css-1arc1mz-MuiTypography-root"
+            >
+              Available to hire
+            </h5>
+            <p
+              class="MuiTypography-root MuiTypography-body1 css-10ca3tv-MuiTypography-root"
+            >
+              Toggling this will let your teammates know that you are available for acquiring new projects
+            </p>
+          </div>
+        </div>
+        <label
+          class="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+        >
+          <span
+            class="MuiSwitch-root MuiSwitch-sizeMedium css-julti5-MuiSwitch-root"
+          >
+            <span
+              class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorSecondary css-12f33q6-MuiButtonBase-root-MuiSwitch-switchBase"
+            >
+              <input
+                class="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+                type="checkbox"
+              />
+              <span
+                class="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+              />
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </span>
+            <span
+              class="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+            />
+          </span>
+        </label>
+      </div>
+      <div
+        class="MuiBox-root css-148mow7"
+      >
+        <div
+          class="MuiBox-root css-13t3iqc"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedSecondary MuiButton-sizeMedium MuiButton-containedSizeMedium css-m4c7dp-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="button"
+          >
+            Update
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeMedium MuiButton-outlinedSizeMedium css-32t2qo-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="button"
+          >
+            cancel
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textError MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textError MuiButton-sizeMedium MuiButton-textSizeMedium css-1jdpz9o-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Delete user
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

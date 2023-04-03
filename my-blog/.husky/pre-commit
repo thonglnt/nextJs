@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+cd my-blog-ver2
+pnpx lint-staged
+pnpm run test -u

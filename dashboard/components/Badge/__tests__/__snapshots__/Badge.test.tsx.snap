@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge Component Should show match Badge DOM Snapshot 1`] = `
+<div>
+  <span
+    class="MuiBadge-root MuiBadge-root css-1c32n2y-MuiBadge-root"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-colorAction MuiSvgIcon-fontSizeMedium css-11pbyhm-MuiSvgIcon-root"
+      data-testid="MailIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"
+      />
+    </svg>
+    <span
+      class="MuiBadge-badge MuiBadge-standard MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightCircular MuiBadge-overlapCircular MuiBadge-colorError MuiBadge-badge css-10tn45-MuiBadge-badge"
+    >
+      9
+    </span>
+  </span>
+</div>
+`;

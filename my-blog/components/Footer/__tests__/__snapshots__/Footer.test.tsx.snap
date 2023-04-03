@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer layouts should render Footer layouts 1`] = `
+<div>
+  <footer
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiBox-root css-1lmv0x8"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+      >
+        <aside
+          class="MuiBox-root css-7y1qy0"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1upvv87-MuiTypography-root"
+            data-testid="contact-detail"
+          >
+            Code your life in an elegant way
+          </p>
+        </aside>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-12k0cdt"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-a64yg-MuiTypography-root"
+        data-testid="copyright"
+      >
+        © Copyright 2019-2021 by BeautyOnCode
+      </p>
+    </div>
+  </footer>
+</div>
+`;

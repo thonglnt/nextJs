@@ -1,0 +1,30 @@
+/* Reset css */
+@import url("./reset.css");
+
+/* Global css */
+@import url("./globals.css");
+
+/* Variable */
+@import url("./color.css");
+
+/* Component */
+@import url("../Components/Header/styles.css");
+@import url("../Components/Sidebar/style.css");
+@import url("../Components/Swiper/style.css");
+@import url("../Components/Footer/style.css");
+
+/* Page */
+@import url("../app/style.css");
+
+.button {
+  padding: 10px 20px;
+  background-color: var(--white);
+  color: var(--black);
+  border: none;
+  font-weight: 400;
+  transition: 0.4s;
+}
+
+.button:hover {
+  color: var(--paleChestnut);
+}

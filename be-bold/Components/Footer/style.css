@@ -1,0 +1,22 @@
+footer{
+  background-color: var(--isabelline);
+}
+
+.list-menu li {
+  border: none;
+  background-color: transparent;
+}
+
+.list-menu li a {
+  color: var(--black);
+  text-decoration: none;
+}
+
+.list-menu li:hover a {
+  opacity: 0.5;
+  color: inherit;
+}
+
+.social-icon i:hover {
+  color: var(--paleChestnut);
+}

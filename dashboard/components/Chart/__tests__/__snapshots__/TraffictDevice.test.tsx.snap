@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Traffic by devices chart components should render Traffic by devices chart component 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+  >
+    <div
+      class="MuiCardHeader-root css-185gdzj-MuiCardHeader-root"
+    >
+      <div
+        class="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-h5 MuiCardHeader-title css-1qvr50w-MuiTypography-root"
+        >
+          Traffic by Device
+        </span>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+    >
+      <div
+        class="MuiBox-root css-1htc9wf"
+      />
+      <div
+        class="MuiBox-root css-fsk1vs"
+      >
+        <div
+          class="MuiBox-root css-1j7apoz"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-colorAction MuiSvgIcon-fontSizeMedium css-11pbyhm-MuiSvgIcon-root"
+            data-testid="LaptopMacIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M20 18c1.1 0 1.99-.9 1.99-2L22 5c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v11c0 1.1.9 2 2 2H0c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2h-4zM4 5h16v11H4V5zm8 14c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gqyz35-MuiTypography-root"
+          >
+            Desktop
+          </p>
+          <h4
+            class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+            style="color: rgb(63, 81, 181);"
+          >
+            63
+            %
+          </h4>
+        </div>
+        <div
+          class="MuiBox-root css-1j7apoz"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-colorAction MuiSvgIcon-fontSizeMedium css-11pbyhm-MuiSvgIcon-root"
+            data-testid="TabletIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M21 4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h18c1.1 0 1.99-.9 1.99-2L23 6c0-1.1-.9-2-2-2zm-2 14H5V6h14v12z"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gqyz35-MuiTypography-root"
+          >
+            Tablet
+          </p>
+          <h4
+            class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+            style="color: rgb(229, 57, 53);"
+          >
+            15
+            %
+          </h4>
+        </div>
+        <div
+          class="MuiBox-root css-1j7apoz"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-colorAction MuiSvgIcon-fontSizeMedium css-11pbyhm-MuiSvgIcon-root"
+            data-testid="PhoneIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+            />
+          </svg>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gqyz35-MuiTypography-root"
+          >
+            Mobile
+          </p>
+          <h4
+            class="MuiTypography-root MuiTypography-h4 css-5lbw0b-MuiTypography-root"
+            style="color: rgb(251, 140, 0);"
+          >
+            23
+            %
+          </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

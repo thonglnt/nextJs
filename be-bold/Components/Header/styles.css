@@ -1,0 +1,41 @@
+.menu a {
+  color: inherit;
+}
+
+.menu:hover a {
+  color: var(--paleChestnut);
+}
+
+.wrapper-hr-tag {
+  height: 3px;
+}
+.hr-tag {
+  width: 80%;
+  margin: 0 auto;
+  display: none;
+  color: var(--paleChestnut);
+}
+
+.menu:hover .hr-tag {
+  display: flex;
+  transition: 0.4s;
+}
+
+.account a {
+  color: inherit;
+}
+
+.account a:hover {
+  color: inherit;
+  transition: 0.4s;
+}
+
+.shopping-card {
+  color: inherit;
+  text-decoration: none;
+}
+
+.shopping-card:hover {
+  color: inherit;
+  transition: 0.4s;
+}

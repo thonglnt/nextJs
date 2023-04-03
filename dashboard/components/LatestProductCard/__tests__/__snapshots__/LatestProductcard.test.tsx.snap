@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Latest Products card components should render Latest Products card component 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-zwt9xa-MuiPaper-root-MuiCard-root"
+  >
+    <div
+      class="MuiCardHeader-root css-185gdzj-MuiCardHeader-root"
+      subtitle="5 in total"
+    >
+      <div
+        class="MuiCardHeader-content css-1qbkelo-MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-h5 MuiCardHeader-title css-1qvr50w-MuiTypography-root"
+        >
+          Latest Products
+        </span>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <ul
+      class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+    >
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-h8lxwn-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+        >
+          <img
+            alt="Dropbox"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="eager"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+            style="color: transparent;"
+            width="48"
+          />
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+          >
+            Dropbox
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+          >
+            Updated about 2
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeSmall css-1bkxqye-MuiButtonBase-root-MuiIconButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="MoreVertIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+            />
+          </svg>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-h8lxwn-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+        >
+          <img
+            alt="Medium Corporation"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="eager"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+            style="color: transparent;"
+            width="48"
+          />
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+          >
+            Medium Corporation
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+          >
+            Updated about 2
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeSmall css-1bkxqye-MuiButtonBase-root-MuiIconButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="MoreVertIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+            />
+          </svg>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-h8lxwn-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+        >
+          <img
+            alt="Slack"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="eager"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+            style="color: transparent;"
+            width="48"
+          />
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+          >
+            Slack
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+          >
+            Updated about 3
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeSmall css-1bkxqye-MuiButtonBase-root-MuiIconButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="MoreVertIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+            />
+          </svg>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-h8lxwn-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+        >
+          <img
+            alt="Lyft"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="eager"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+            style="color: transparent;"
+            width="48"
+          />
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+          >
+            Lyft
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+          >
+            Updated about 5
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeSmall css-1bkxqye-MuiButtonBase-root-MuiIconButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="MoreVertIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+            />
+          </svg>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <div
+          class="MuiListItemAvatar-root css-1e9lk82-MuiListItemAvatar-root"
+        >
+          <img
+            alt="GitHub"
+            data-nimg="1"
+            decoding="async"
+            height="48"
+            loading="eager"
+            src="/_next/image?url=%2Fimg.jpg&w=96&q=40"
+            srcset="/_next/image?url=%2Fimg.jpg&w=48&q=40 1x, /_next/image?url=%2Fimg.jpg&w=96&q=40 2x"
+            style="color: transparent;"
+            width="48"
+          />
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline css-konndc-MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-10hburv-MuiTypography-root"
+          >
+            GitHub
+          </span>
+          <p
+            class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-83ijpv-MuiTypography-root"
+          >
+            Updated about 9
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeSmall css-1bkxqye-MuiButtonBase-root-MuiIconButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="MoreVertIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+            />
+          </svg>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </li>
+    </ul>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root css-1qc63lq"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall css-1knaqv7-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        View all
+        <span
+          class="MuiButton-endIcon MuiButton-iconSizeSmall css-155nyw6-MuiButton-endIcon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowRightIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m10 17 5-5-5-5v10z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

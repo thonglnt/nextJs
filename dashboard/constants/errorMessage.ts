@@ -1,0 +1,11 @@
+export const REQUIRED = 'This field is required.'
+export const EMAIL_NOT_EXIST = 'Email address does not exist.'
+export const EMAIL_ALREADY_EXIST = 'Email already exist.'
+export const INVALID_EMAIL_FORMAT = 'Invalid email format.'
+export const INVALID_PASSWORD_FORMAT = 'Invalid password format.'
+export const INVALID_PASSWORD = 'Invalid password.'
+export const SERVER_ERROR = 'Something went wrong. Please try again!'
+export const API_ERROR_NOT_FOUND = '404 - Page Not Found!'
+export const TIME_DUPLICATED_ERROR =
+  'You made a reservation for this time slot.'
+export const NAME_REQUIRED = 'name is a required field'

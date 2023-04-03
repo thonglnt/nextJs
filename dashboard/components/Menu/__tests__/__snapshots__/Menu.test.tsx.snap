@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu component should render Menu component 1`] = `
+<div>
+  <button
+    aria-haspopup="true"
+    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1pe4mpk-MuiButtonBase-root-MuiIconButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-1vfbbup-MuiAvatar-root"
+    >
+      M
+    </div>
+    <span
+      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;

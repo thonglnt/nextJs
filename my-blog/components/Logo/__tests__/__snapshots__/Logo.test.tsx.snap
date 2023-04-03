@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo Component Should show match Logo DOM Snapshot 1`] = `
+<div>
+  <h1
+    class="MuiTypography-root MuiTypography-h1 css-1eixk0k-MuiTypography-root"
+  >
+    <a
+      href="#"
+    >
+      beautyoncode
+    </a>
+  </h1>
+</div>
+`;

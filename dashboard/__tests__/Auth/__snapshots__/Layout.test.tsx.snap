@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RootLayout should render RootLayout 1`] = `
+<div>
+  <html
+    lang="en"
+  >
+    <head>
+      <meta
+        charset="UTF-8"
+      />
+      <meta
+        content="width=device-width, initial-scale=1.0"
+        name="viewport"
+      />
+      <meta
+        content="IE=edge"
+        http-equiv="X-UA-Compatible"
+      />
+      <link
+        href="/favicon.ico"
+        rel="icon"
+      />
+    </head>
+    <body>
+      <main
+        class="MuiBox-root css-prgmkg"
+      >
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthMd css-2dgwvx-MuiContainer-root"
+        >
+          Content Pages
+        </div>
+      </main>
+    </body>
+  </html>
+</div>
+`;

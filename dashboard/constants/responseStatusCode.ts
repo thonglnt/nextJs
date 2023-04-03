@@ -1,0 +1,11 @@
+export const SUCCESS_RESPONSE = {
+  OK: 200,
+  CREATED: 201,
+}
+
+export const CLIENT_ERROR_RESPONSE = {
+  BAD_REQUEST: 400,
+  NOT_FOUND: 404,
+  METHOD_NOT_ALLOW: 405,
+  CONFLICT: 409,
+}

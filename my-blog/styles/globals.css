@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: black;
+    background: white;
+  }
+}
+
+::selection {
+  background: rgba(239, 198, 44, 0.9) none repeat scroll 0 0;
+  color: #fff;
+}
